@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament that all the temporall livings, dignities, and ecclesisticall promotions belonging unto William, Lord Arch-bishoppe of Canterbury, be forthwith sequestered by and unto the Parliament, and that he shall be suspended untill he be either convicted or acquitted of high treason, which he stands now accused : and that during the suspention and sequestiation, his jurisdiction shall be exercised by his vicar-generall, and other his inferior judges and officers.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22168</idno><idno type="EEBO-CITATION">12248708</idno>
+  <idno type="VID">197311</idno>
+  <idno type="EEBO-PROQUEST">2240955718</idno>
+  
+            <idno type="STC">Wing E2084</idno>
+            <idno type="OCLC">12248708</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197311)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E105, no 29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament that all the temporall livings, dignities, and ecclesisticall promotions belonging unto William, Lord Arch-bishoppe of Canterbury, be forthwith sequestered by and unto the Parliament, and that he shall be suspended untill he be either convicted or acquitted of high treason, which he stands now accused : and that during the suspention and sequestiation, his jurisdiction shall be exercised by his vicar-generall, and other his inferior judges and officers.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Iune 13, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Laud, William, 1573-1645.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197311:1"/>
+            <p> AN ORDINANCE Of The LORDS and COMMONS Assembled in PARLIAMENT.</p>
+            <p>That all the Temporall Livings, Dignities, and Ecclesisticall Promotions belonging unto <hi>William</hi> Lord Arch-bishoppe of <hi>Canterbury,</hi> be forthwith Sequestered by and unto the Parliament, and that he shall be suspended untill he be either convicted or acquitted of high Trea<g ref="char:EOLhyphen"/>son, which he stands now Accused.</p>
+            <p>And that during the Suspention and Seque<g ref="char:EOLhyphen"/>stration, his jurisdiction shall be exercised by his Vicar-Generall, and other his inferior Judges and Officers.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi, 10. Junii, 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords and Commons Assembled in Parlia<g ref="char:EOLhyphen"/>ment, that this Ordinances shall be forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Browne Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Iune 13. Printed for Iohn W<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight in the Old-Bailey. 1643.</p>
+            <pb facs="tcp:197311:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:197311:2"/>
+            <head>AN ORDINANCE OF THE Lords and Commons Assembled in PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabbathi,</hi> 10 <hi>Iunii,</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Heras by an Ordinance of the Lords and Commons in this present Parliament, of the 17. of <hi>May,</hi> 1643. the Arch-bi<g ref="char:EOLhyphen"/>shop of <hi>Canterbury</hi> is required from time to time untill his Tryall, to collate such fit persons unto any Ecclesiasticall pre<g ref="char:EOLhyphen"/>ferment in his Patronage, as shall by both Houses be nominated unto him, and in pursuance of the said Ordinance, another Ordinance of the Lords and
+<pb facs="tcp:197311:3"/> Commons past the 20. of the same moneth, requiring the said Arch▪Bishop to collate upon <hi>Edward Corbet,</hi> Fellow of <hi>Me<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton</hi> Colledge in the Vniversity of <hi>Oxford,</hi> the Rectory of <hi>Chartham</hi> in the County of <hi>Kent,</hi> voyd by death of Doc<g ref="char:EOLhyphen"/>tor <hi>Bargrave,</hi> the last Incumbent; And whereas the said Arch-bishop refuseth obedience to the said Ordinance, It is therefore Ordered, and be it so Ordai<g ref="char:EOLhyphen"/>ned, by the Lords and Commons in Parliament, that all the Temporalties of the Arch-bishop of <hi>Canterbury,</hi> be here<g ref="char:EOLhyphen"/>by Sequestred by and unto the Parlia<g ref="char:EOLhyphen"/>ment, and <hi>William</hi> Lord Arch-bishop of <hi>Canterbury</hi> suspended, <hi>ab officio et bene<g ref="char:EOLhyphen"/>ficio, et omni et omnimoda jurisdictione Archi piscopali,</hi> untill he be either con<g ref="char:EOLhyphen"/>victed or acquitted of high Treason, for which he stands now accused, and whatsoever Livings, Dignities, or Ec<g ref="char:EOLhyphen"/>clesiasticall Promotions, in the said Arch-bishops Gift or collation, are, or hereafter shall be voyd, shall henceforth
+<pb facs="tcp:197311:3"/> be Instituted and inducted unto by the Arch-bishops Vicar-Generall, or any other having authority in this behalfe, upon the nomination &amp; recommendati<g ref="char:EOLhyphen"/>on of both Houses of Parliament, du<g ref="char:EOLhyphen"/>ring the time of the suspension and Se<g ref="char:EOLhyphen"/>questration aforesaid; And upon this Ordinance, it is Ordered, and be it so Ordained, by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament, That the said <hi>Edward Corbet</hi> be, and is hereby nomi<g ref="char:EOLhyphen"/>nated and recommended, forthwith up<g ref="char:EOLhyphen"/>on sight hereof, to be Admitted, Insti<g ref="char:EOLhyphen"/>tuted, and Inducted, by the Vicar Generall aforesaid, or any other having authority in this behalfe, into the said Rectory of <hi>Chartham, ratione suspensionis Domini Gulielmii Archi episcopi Cantuari<g ref="char:EOLhyphen"/>ensis, et Sequestrationis temporalium Ar<g ref="char:EOLhyphen"/>chi episcopatus in manibus supremae Curiae Parliamenti jam existentium,</hi> the same be<g ref="char:EOLhyphen"/>longing unto their Gift: And it is hereby further Ordained by the Lords and Commons in Parliament, that du<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:197311:4"/> the Suspension and Sequestra<g ref="char:EOLhyphen"/>tion aforesaid, the Iurisdiction of the said Arch-bishop shall be executed and exercised by his Vicar-Generall, and other his inferior Iudges and Officers, as formerly the same hath beene.</p>
+         </div>
+         <div type="ordinance">
+            <pb facs="tcp:197311:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Martis,</hi> 16. <hi>Mai,</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>WHereas <hi>VVilliam</hi> Lord Arch-bishop of <hi>Canterbury,</hi> standeth Impeached in this present Parliament for high Treason, and for divers other great offences and misdemeanors, and by reason of many great and weighty busi<g ref="char:EOLhyphen"/>nesses he cannot yet be brought to tryall for the said offences and misdemeanours, and he in res<g ref="char:EOLhyphen"/>pect of his said Archbishopwrick of <hi>Canterbury</hi> hath power to give and Collate fit Clerks, divers Parsonages, Vicaxidges, Prebends, and other Ecclesiasticall promotions and preferments, and if any of them should become voyd, and he left to preferre whom he please to the same, the same may prove very inconvenient, he bestowing them upon unfit and unworthy persons; Be it therefore Or<g ref="char:EOLhyphen"/>dered and Ordained, by the Lords and Com<g ref="char:EOLhyphen"/>mons in this present Parliament, that in case a<g ref="char:EOLhyphen"/>ny of the foresaid Parsonages, Vicaridges, Prebends, or other Ecclesiasticall promotions or preferments now be, or shall hereafter and before the tryall of the said Lord Arch bishop become voyd, that the said Lord Arch-bishop of <hi>Canterbu<g ref="char:EOLhyphen"/>ry</hi> shall forbeare to present or Collate any person or persons thereunto, without the leave &amp; Order of both Houses of Parliament: And it is further Ordered and Ordained, that the said Lord Arch-bishop
+<pb facs="tcp:197311:5"/> shall from time to time untill his said try<g ref="char:EOLhyphen"/>al present and Collate such fit person or persons, to every such Parsonage, Vicaridge, Prebend, and other Ecclesiasticall preferment as aforesaid which now are, or hereafter before his said try<g ref="char:EOLhyphen"/>all shall become voyd, as by both Houses of Par<g ref="char:EOLhyphen"/>liament shall be nominated and appointed. And it is further Ordered by the said Lords and Commons in Parliament, that all Archdeacons, Registers, and other Officers, Ministers, and persons whatsoever, shall forbeare to give or make any Admission, Institution, Collation, or Induction, of any person or persons whatsoever which by the said Archbishop shall be presented, in or to any such Parsonage, Vicaridge, Prebend, or other Ecclesiastical preferment, other then such person and persons as shal be nomtnated and ap<g ref="char:EOLhyphen"/>poynted by both Houses of Parliament as afore<g ref="char:EOLhyphen"/>said. And it is lastly Ordered, that the said Lord Archbishop, and the Churchwardens of every Parish and other Officers of the Church, where any Parsonage, Vicaridge, Prebend, or other Ecclesiasticall promotions or preferments, in the Donation or gift of the said Archbishop is, shall within two moneths after the respective avoy<g ref="char:EOLhyphen"/>dance thereof, give notice of such avoydances to the Lord Speaker of the House of Peers for the time being.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
